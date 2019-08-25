@@ -11,6 +11,7 @@ sudo apt install openjfx
 sudo apt install gcc
 sudo apt install g++
 sudo apt install ant
+sudo apt install python
 sudo apt install automake
 sudo apt install autoconf
 sudo apt install pulseaudio
